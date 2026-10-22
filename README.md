@@ -30,8 +30,6 @@ Smart-Power-Load-Management-System/
 └── README.md                # Project documentation
 
 
-*Note: Include the Vivado `.xpr` project file and any required IP or block-design source files if you want others to reopen and reproduce the complete project.*
-
 ## 🔄 Working Principle
 
 1. **Input Acquisition:** The system receives digital inputs representing load requests or control conditions.
