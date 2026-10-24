@@ -23,7 +23,7 @@ The system demonstrates how digital logic and FPGA technology can be used to imp
 ## 📂 Project Structure
 
 
-Smart-Power-Load-Management-System/
+Smart-Power-Load-Management-System
 
 ├── Pro1.v                  # Main Verilog design
 
