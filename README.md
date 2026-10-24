@@ -24,6 +24,7 @@ The system demonstrates how digital logic and FPGA technology can be used to imp
 
 
 Smart-Power-Load-Management-System/
+
 ├── Pro1.v                  # Main Verilog design
 ├── tb_Pro1.v               # Verilog testbench
 ├── constraints.xdc          # FPGA pin and timing constraints
